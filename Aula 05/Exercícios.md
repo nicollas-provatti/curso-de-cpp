@@ -70,7 +70,7 @@ Escreva uma função chamada `calculaHospedagem` que receba por parâmetro o tip
  
 * Saída:
     ```yaml
-    O valor toal a ser pago será de R$318.75
+    O valor total a ser pago será de R$318.75
     ```
 
 ---
@@ -126,3 +126,4 @@ Faça um programa para ler o número de peças fabricadas por três pessoas no m
 
 
 ---
+
