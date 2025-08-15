@@ -14,7 +14,7 @@ Escreva uma função chamada `classificaAluno` que receba como parâmetro a méd
 **Exemplo de:**
 - Entrada:
     ```yaml
-    Informe sua méida: 6.9
+    Informe sua média: 6.9
     Informa as faltas: 10
     ```
  
@@ -43,9 +43,9 @@ O seu programa deve chamar a função para calcular os volumes das esferas e de 
  
 * Saída:
     ```yaml
-    Volume da primeira efera: 4.19 
-    Volume da segunda efera: 268.08 
-    Volume da terceira efera: 33.51 
+    Volume da primeira esfera: 4.19 
+    Volume da segunda esfera: 268.08 
+    Volume da terceira esfera: 33.51 
     ```
 
 ---
@@ -65,7 +65,7 @@ Escreva uma função chamada `calculaHospedagem` que receba por parâmetro o tip
 - Entrada:
     ```yaml
     Informe o tipo do apartamento: individual
-    Informe a quantidade de dais: 3
+    Informe a quantidade de dias: 3
     ```
  
 * Saída:
@@ -109,9 +109,9 @@ Faça um programa para ler o número de peças fabricadas por três pessoas no m
 - Entrada:
     ```yaml
     Informe o valor do salário: 1212
-    Peças frabicas pela primeira pessoa: 12
-    Peças frabicas pela segunda pessoa: 37
-    Peças frabicas pela terceira pessoa: 45
+    Peças fabricadas pela primeira pessoa: 12
+    Peças fabricadas pela segunda pessoa: 37
+    Peças fabricadas pela terceira pessoa: 45
     ```
  
 * Saída:
@@ -123,5 +123,6 @@ Faça um programa para ler o número de peças fabricadas por três pessoas no m
     Media de pecas fabricadas: 31.33
     Maior salario: R$2121.00
     ```
+
 
 ---
