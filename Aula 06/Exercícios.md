@@ -59,7 +59,7 @@
     ```css
     O número 12 aparaceu 3 vezes, nas posições:
     1
-    5
+    4
     7
     ```
 
@@ -114,4 +114,5 @@
 - No entanto, se for negativo, será exibida uma mensagem de erro: `Ordenacao cancelada.`
 
 ---
+
 
