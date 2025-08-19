@@ -28,12 +28,10 @@
 * Saída:
     ```css
     Os números que estão no intervalo [20;30] são:
-    - 40
-    - 37
     - 23
     - 29
 
-    No total, 5 de 10 números.
+    No total, 2 de 10 números.
     ```
 
 ---
@@ -116,3 +114,4 @@
 - No entanto, se for negativo, será exibida uma mensagem de erro: `Ordenacao cancelada.`
 
 ---
+
