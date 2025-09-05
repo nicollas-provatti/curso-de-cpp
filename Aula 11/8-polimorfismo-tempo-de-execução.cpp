@@ -69,10 +69,11 @@ int main() {
     turma[1] = new AlunoGraduacao("Maria", 23, "Engenharia de Software");
 
     for (int i = 0; i < 2; i++) {
-        turma[i]->apresentar(); // ❌ Sem virtual, sempre chama o método da classe base
+        turma[i]->apresentar(); 
     }
 
     for (int i = 0; i < 2; i++) delete turma[i];
     return 0;
 }
 */
+
